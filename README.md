@@ -1,2 +1,2 @@
-# IQ-Test-webtech
-IQ test by Aditya Gala and Yashraj Gangal
+# IQ-Test
+A Web Technology Mini-Project
